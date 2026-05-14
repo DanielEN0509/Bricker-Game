@@ -1,3 +1,4 @@
+<img width="696" height="518" alt="צילום מסך 2026-05-14 080349" src="https://github.com/user-attachments/assets/9158a713-8035-4e3d-8acc-f5369aad38be" />
 Bricker Game
 A classic Brick Breaker game implemented in Java, focusing on Object-Oriented Design Patterns and robust game logic. This project was developed as part of my studies at The Hebrew University of Jerusalem.
 
